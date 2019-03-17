@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# exclude .js file because we're using typescript
+src/**/*.js
